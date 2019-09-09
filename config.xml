@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.rcf.app"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
 <name>rcf-start.com</name>
 
@@ -38,12 +38,12 @@
 
 
 <platform name="android">
-    <icon src="res/android/icon/6f2dff07093af0b27e4dd67ffe4923cb.png" density="ldpi" />
-    <icon src="res/android/icon/6b5f66b198743246553a460aca83de8e.png" density="mdpi" />
-    <icon src="res/android/icon/fabeb63d9cb1eac2ca8017b1cb2ec9fd.png" density="hdpi" />
-    <icon src="res/android/icon/0f701043755ff86b5241ba3ef1a1a15a.png" density="xhdpi" />
-    <icon src="res/android/icon/ad350be033d1df44a25a272bae88e92f.png" density="xxhdpi" />
-    <icon src="res/android/icon/ad6b141fa39b0d0c1c26af1e8872f652.png" density="xxxhdpi" />
+    <icon src="res/android/icon/26f9886bf7b020bd25503f756c015455.png" density="ldpi" />
+    <icon src="res/android/icon/11d98173876092195aff5d32fe46759e.png" density="mdpi" />
+    <icon src="res/android/icon/0b9c6c917ca003477ff2998fb519d407.png" density="hdpi" />
+    <icon src="res/android/icon/9dde102e95e1d944b69cfc4f4d18c6c1.png" density="xhdpi" />
+    <icon src="res/android/icon/685ede0441ff06a117a8ad0b35ec0b5c.png" density="xxhdpi" />
+    <icon src="res/android/icon/21ab1b25e3cb3e02d3b6d67b90ccf140.png" density="xxxhdpi" />
 
     <splash src="res/android/screen/efd9cc8e52363d2e5d80c0997e21790b.png" density="port-hdpi"/>
     <splash src="res/android/screen/daa163247927bd3864a98f0695e87dca.png" density="port-ldpi"/>
@@ -52,20 +52,20 @@
 </platform>
 
 <platform name="ios">
-	<icon src="res/ios/icon/415d32e7debbdc340113da325d07c822.png" width="180" height="180" />
-	<icon src="res/ios/icon/8b3920f23c12cdbd670bda03377dc0ef.png" width="60" height="60" />
-	<icon src="res/ios/icon/9000bd613d75e3b4effcbc1658033968.png" width="120" height="120" />
-	<icon src="res/ios/icon/abf6626860d1d4188595229fe43336df.png" width="76" height="76" />
-	<icon src="res/ios/icon/071c657aa22afa2046e36f65b5bcbd1c.png" width="152" height="152" />
-	<icon src="res/ios/icon/3b80330043a4aa3c024faa4c8f1639a9.png" width="57" height="57" />
-	<icon src="res/ios/icon/d15d362e5d9d1584cdf1e17627c9d6de.png" width="114" height="114" />
-	<icon src="res/ios/icon/75d6eb3f98d68f32e623614d476bc1d4.png" width="72" height="72" />
-	<icon src="res/ios/icon/906f5eb249496ae684fd1d8ba2be6b72.png" width="144" height="144" />
-	<icon src="res/ios/icon/f146a9ed861f8dbccf95dbc8887b9a2a.png" width="167" height="167" />
-	<icon src="res/ios/icon/320badc4497ddf183df69a52a42e9954.png" width="29" height="29" />
-	<icon src="res/ios/icon/414ac663711340a1efdeedc370739e80.png" width="58" height="58" />
-	<icon src="res/ios/icon/0f320f500aff750f31b874591da2d62f.png" width="87" height="87" />
-	<icon src="res/ios/icon/d0419fa538385356b80f9c6f8850b830.png" width="167" height="167" />
+	<icon src="res/ios/icon/f9f0b3a1c6d808c978351853345b8e4a.png" width="180" height="180" />
+	<icon src="res/ios/icon/47e7b434f45799b53f17c6a1eac79820.png" width="60" height="60" />
+	<icon src="res/ios/icon/e131f7fc7ebed83b62fd2e0b0c07b87f.png" width="120" height="120" />
+	<icon src="res/ios/icon/09590052e214081239e4c8cc262d57a9.png" width="76" height="76" />
+	<icon src="res/ios/icon/3d2edfd4cf155d122b6acadba2715ad7.png" width="152" height="152" />
+	<icon src="res/ios/icon/c0d300f92fed2e18140573a2f5c83403.png" width="57" height="57" />
+	<icon src="res/ios/icon/70dc93b1c375e2f18f7af7703c73a47a.png" width="114" height="114" />
+	<icon src="res/ios/icon/2c94ede1452f3ddc4eac2b37b9bf3066.png" width="72" height="72" />
+	<icon src="res/ios/icon/f6f8b827d47538fca5953f6a68b2a655.png" width="144" height="144" />
+	<icon src="res/ios/icon/59f66353fc4e4800c36fd0e0f1c3d0d8.png" width="167" height="167" />
+	<icon src="res/ios/icon/92f3936c808dc322c4a18a73035dd096.png" width="29" height="29" />
+	<icon src="res/ios/icon/2a6f8bb2d6e2cae86a44f1797d004d61.png" width="58" height="58" />
+	<icon src="res/ios/icon/465f59b148c7155c2d0cf8c539c5bdd8.png" width="87" height="87" />
+	<icon src="res/ios/icon/43d78d55ead31b35cf72637b3377ba25.png" width="167" height="167" />
 
 	<splash src="res/ios/screen/72f913a6eee2fefc73fef247f1fec218.png" />
     <splash src="res/ios/screen/56b514daa81b24aa4e5f3650c073ddf9.png" />
